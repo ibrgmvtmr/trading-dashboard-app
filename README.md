@@ -1,4 +1,4 @@
-# SimpleTrader - Fullstack WPF MVVM Demo Application
+# Trader app - Fullstack WPF MVVM Demo Application
 
 This project is a **Simple Trading Demo Application** built with WPF, MVVM architecture, and .NET. It features CRUD operations, live data visualization, and portfolio management using various technologies and patterns such as Entity Framework, Repository Pattern, Dependency Injection, and more. The application allows users to search for assets, buy and sell stocks, view portfolios, and manage accounts with login and registration functionalities.
 
@@ -41,5 +41,17 @@ After launching the application, users can:
 - **Search for assets**: Look up stock symbols and view real-time data.
 - **Buy/Sell assets**: Execute trades and update your portfolio.
 - **Login/Register**: Manage account information securely.
+
+
+![image](https://github.com/user-attachments/assets/e262982d-8257-4ab2-b640-65878ac4fb11)
+![image](https://github.com/user-attachments/assets/e9f34408-cba4-41d5-8c79-1254a730e62a)
+![image](https://github.com/user-attachments/assets/c687c34a-40ac-43b8-b0af-813ddb1a74d6)
+![image](https://github.com/user-attachments/assets/cca55609-f309-4748-b546-da364d1d0732)
+![image](https://github.com/user-attachments/assets/eef984ad-c708-4000-89ab-fe7ebf05af61)
+![image](https://github.com/user-attachments/assets/c7538236-5703-4424-8871-eeefe562672e)
+![image](https://github.com/user-attachments/assets/effa5298-2456-4c54-899c-441643d24bf4)
+
+
+
 
 
